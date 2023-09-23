@@ -1,5 +1,14 @@
 <h1 align="center">Hi 👋, I'm Zartasha Asif</h1>
 <h3 align="center">A passionate frontend developer from pakistan</h3>
+<h1 align="left">About me</h1>
+<p>I am a Master of IT and a self-taught Front-End Web Developer from Pakistan with a passion for creating exceptional user experiences. My diverse skill set includes expertise in HTML, CSS, JavaScript, React.js, Bootstrap, and Tailwind, which I use to craft functional and intuitive web interfaces. I would be delighted to hear from you if you are looking for a collaborative partner to bring your unique vision to life. Let's work together to build something amazing! 💻🚀
+
+
+    Previous Experience: I have been a JavaScript and React.js developer at Defox technologies.
+    Projects: I have worked on various web development projects, creating responsive and user-friendly interfaces.
+    Education: I hold a Master degree in Information Technology from The  university of sarghoda.
+
+</p>
 
 
 
@@ -14,7 +23,7 @@
 
 - ⚡ Fun fact **I'am funny**
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Let's connect and see where our shared passion for <br> technologies can taken us! :</h3>
 <p align="left">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/zartasha-asif-439496272" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/zartasha-asif-439496272" height="30" width="40" /></a>
 <a href="https://fb.com/https://www.facebook.com/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/" height="30" width="40" /></a>
