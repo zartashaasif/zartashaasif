@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Zartasha Asif</h1>
-<h3 align="center">Warmest Welcome Delighted to Connect With you</h3>
+<h1 align="center">Warmest Welcome Delighted to Connect With you</h1>
 <h1 align="left">About Me!</h1>
 <p>I am a Master of IT and a self-taught Front-End Web Developer from Pakistan with a passion for creating exceptional user experiences. My diverse skill set includes expertise in HTML, CSS, JavaScript, React.js, Bootstrap, and Tailwind, which I use to craft functional and intuitive web interfaces. I would be delighted to hear from you if you are looking for a collaborative partner to bring your unique vision to life. Let's work together to build something amazing! 💻🚀
 
